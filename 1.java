@@ -1,1 +1,1 @@
-This is for conflicts
+This is without conflicts
